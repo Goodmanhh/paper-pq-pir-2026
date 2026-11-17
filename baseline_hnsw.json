@@ -1,0 +1,14 @@
+{
+  "route": "plaintext-hnsw",
+  "n_base": 100000,
+  "n_queries": 1000,
+  "dim": 128,
+  "build_seconds": 5.979,
+  "latency_ms_mean": 0.2394,
+  "latency_ms_p95": 0.3962,
+  "batch_qps": 26156.4,
+  "recall_at_10": 0.9852,
+  "index_size_mb_approx": 64.0,
+  "online_communication": "query vector + k records (plaintext)",
+  "client_storage": "none"
+}

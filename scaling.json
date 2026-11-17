@@ -1,0 +1,44 @@
+[
+  {
+    "route": "hnsw",
+    "n": 10000,
+    "dim": 128,
+    "latency_ms": 0.159
+  },
+  {
+    "route": "hnsw",
+    "n": 50000,
+    "dim": 128,
+    "latency_ms": 0.1881
+  },
+  {
+    "route": "hnsw",
+    "n": 100000,
+    "dim": 128,
+    "latency_ms": 0.1906
+  },
+  {
+    "route": "hnsw",
+    "n": 100000,
+    "dim": 256,
+    "latency_ms": 0.5219
+  },
+  {
+    "route": "ckks",
+    "n": 1000,
+    "dim": 128,
+    "latency_s": 4.383
+  },
+  {
+    "route": "ckks",
+    "n": 2500,
+    "dim": 128,
+    "latency_s": 10.896
+  },
+  {
+    "route": "ckks",
+    "n": 5000,
+    "dim": 128,
+    "latency_s": 22.057
+  }
+]

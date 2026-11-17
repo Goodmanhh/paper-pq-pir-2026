@@ -1,0 +1,13 @@
+{
+  "route": "ckks-inner-product",
+  "n_base": 5000,
+  "n_queries": 20,
+  "dim": 128,
+  "latency_s_mean": 23.326,
+  "latency_s_p95": 24.239,
+  "qps": 0.0429,
+  "recall_at_10": 1.0,
+  "query_ciphertext_kb": 323.46,
+  "response_ciphertext_mb": 1175.36,
+  "client_storage": "CKKS context + keys"
+}

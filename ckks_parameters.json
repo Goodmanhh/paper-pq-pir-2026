@@ -1,0 +1,17 @@
+[
+  {
+    "poly_modulus_degree": 4096,
+    "latency_s": 2.036,
+    "response_mb": 67.836
+  },
+  {
+    "poly_modulus_degree": 8192,
+    "latency_s": 4.329,
+    "response_mb": 235.072
+  },
+  {
+    "poly_modulus_degree": 16384,
+    "latency_s": 15.234,
+    "response_mb": 657.77
+  }
+]

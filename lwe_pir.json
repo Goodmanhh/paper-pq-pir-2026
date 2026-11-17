@@ -1,0 +1,13 @@
+{
+  "route": "lwe-pir-exact-index",
+  "n_base": 100000,
+  "n_queries": 20,
+  "dim": 128,
+  "client_encrypt_s_mean": 0.2206,
+  "server_compute_ms_mean": 103.9152,
+  "query_samples": 100000,
+  "response_records": 1,
+  "retrieval_error_l2": 0.000597,
+  "semantics": "exact index only (no ANN similarity)",
+  "client_storage": "LWE secret key"
+}
