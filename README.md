@@ -1,6 +1,5 @@
 # Privacy-Preserving Vector Retrieval for RAG: An Experimental Evaluation
 
-期末论文项目（信息搜索与人工智能，2026-12-20 截止）
 
 ## 研究问题
 
