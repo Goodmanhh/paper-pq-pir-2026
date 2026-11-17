@@ -1,0 +1,8 @@
+{
+  "route": "hnsw-real-20ng-tfidf",
+  "n_base": 2000,
+  "n_queries": 20,
+  "dim": 512,
+  "latency_ms_mean": 0.363,
+  "recall_at_10": 0.95
+}
